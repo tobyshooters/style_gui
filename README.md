@@ -3,9 +3,9 @@
 Based on [Naoto's Pytorch implementation](https://github.com/naoto0804/pytorch-AdaIN) of AdaIn.
 
 ## Install
-- `conda create --file environment.txt`
-- `conda activate environment`
-- 'jupyter notebook style-transfer.ipynb'
+- `conda create --file environment.txt -n style`
+- `conda activate style`
+- `jupyter notebook style-transfer.ipynb`
 - Change kernel to `environment`
 - Run the command in order
 
