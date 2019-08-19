@@ -1,4 +1,4 @@
-# pytorch-AdaIN
+# Jupyter GUI for AdaIN Style Transfer
 
 Based on [Naoto's Pytorch implementation](https://github.com/naoto0804/pytorch-AdaIN) of AdaIn.
 See his repo for information about testing options and how to train a new model.
